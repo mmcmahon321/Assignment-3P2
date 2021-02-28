@@ -13,7 +13,7 @@
     "@mdi/font": "^5.9.55",
     "axios": "^0.21.1",
     "sweetalert2": "^8.19.0",
-    "vue": "^2.5.2",
+    "vue": "^2.6.12",
     "vue-axios": "^2.1.5",
     "vue-router": "^3.0.1",
     "vue-session": "^1.0.0",
